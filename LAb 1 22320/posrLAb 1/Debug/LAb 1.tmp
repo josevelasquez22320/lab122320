@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\josea\OneDrive\Escritorio\PDM\LAb 1\LAb 1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\josea\OneDrive\Escritorio\PDM\LAb 1\LAb 1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\josea\OneDrive\Escritorio\PDM\LAb 1\LAb 1\Debug\LAb 1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LAb 1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LAb 1.map</FILE>
+  <FILE>LAb 1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\LAb 1\LAb 1\main.asm</FILE><LINE>24</LINE></SETUP>
+  <LOOP><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\LAb 1\LAb 1\main.asm</FILE><LINE>51</LINE></LOOP>
+  <COUNTER1><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\LAb 1\LAb 1\main.asm</FILE><LINE>68</LINE></COUNTER1>
+  <COUNTER2><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\LAb 1\LAb 1\main.asm</FILE><LINE>79</LINE></COUNTER2>
+  <DELAYBOUNCE><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\LAb 1\LAb 1\main.asm</FILE><LINE>92</LINE></DELAYBOUNCE>
+  <ADESION><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\LAb 1\LAb 1\main.asm</FILE><LINE>140</LINE></ADESION>
+  <ADDER><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\LAb 1\LAb 1\main.asm</FILE><LINE>145</LINE></ADDER>
+  <INCREASE1><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\LAb 1\LAb 1\main.asm</FILE><LINE>108</LINE></INCREASE1>
+  <DECREASE1><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\LAb 1\LAb 1\main.asm</FILE><LINE>114</LINE></DECREASE1>
+  <INCREASE2><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\LAb 1\LAb 1\main.asm</FILE><LINE>120</LINE></INCREASE2>
+  <DECREASE2><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\LAb 1\LAb 1\main.asm</FILE><LINE>127</LINE></DECREASE2>
+  <DELAY><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\LAb 1\LAb 1\main.asm</FILE><LINE>96</LINE></DELAY>
+  <SHSESL><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\LAb 1\LAb 1\main.asm</FILE><LINE>134</LINE></SHSESL>
+ </LABELS>
+</ASSEMBLER_INFO>
